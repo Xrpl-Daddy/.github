@@ -12,12 +12,15 @@
 <br/>
 <img src="https://raw.githubusercontent.com/Xrpl-Daddy/.github/8e4a99cbc7dc14e51873726282b877e20b2f3856/Resources/DADDY%E2%80%99s%20WALLET.svg" alt="Daddy" height="40"/>
 
+<a href="https://t.me/+oGmyvIqAPfZmYWMy">
+  Wallet open beta
+</a>
 </p>
      
 [![Follow the white rabbit.](https://readme-typing-svg.herokuapp.com?size=24&color=10A118&center=true&vCenter=true&width=500&height=100&lines=Follow+the+white+rabbit...;knock+knock...)](https://git.io/typing-svg)
-</td><td valign="top" width="50%">
-      
- 
+
+
+</td><td valign="top" width="50%"> 
 <div align="center" >
 <div>
  <a href="https://github.com/Transia-RnD/XrplCSharp">
