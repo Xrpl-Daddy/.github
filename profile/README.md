@@ -38,14 +38,4 @@
     <br/><br/>
 </div>
  </div> 
-<!--![GitHub metrics](https://metrics.lecoq.io/Platonenkov)-->
-<tr><td valign="top" width="50%">
-
-   
-<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Platonenkov&theme=material-palenight&background=00000000&border=00000000)-->   
-   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Platonenkov&background=DD272700&sideNums=DD2727&currStreakNum=8C59CF8A&border=DD272700&ring=57C79B&sideLabels=98C751&dates=168CC7)](https://git.io/streak-stats)
-</td><td valign="bottom" width="50%">
-      
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Platonenkov&show_icons=true&include_all_commits=true&count_private=true&theme=dark&border=00000000&hide_border=true&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF")  
- </td></tr></table>  
+</table>  
