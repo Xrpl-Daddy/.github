@@ -32,7 +32,7 @@
   </a>
     <br/><br/>
  <a href="https://github.com/Xrpl-Daddy/XRPL.FoundationDataApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username==Xrpl-Daddy&repo=XRPL.FoundationDataApi&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xrpl-Daddy&repo=XRPL.FoundationDataApi&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
   </a>
     <br/><br/>
  <a href="https://github.com/Xrpl-Daddy/XRPL.MagneticService">
